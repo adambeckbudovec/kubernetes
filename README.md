@@ -1,4 +1,4 @@
-# kubernetes
+# Kubernetes
 
 Setting up Kubernetes involves several steps, including installing and configuring components. Below are detailed instructions for installing Kubernetes on Ubuntu and CentOS, along with some OS-specific prerequisites.
 
